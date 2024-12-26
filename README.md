@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ParallaX06
+- 👋 Hi, I’m @Sarthik
 - 👀 I’m interested in video games and coding
 - 🌱 I’m currently learning C as I'm a beginner
 - 💞️ I’m looking to collaborate on ...
